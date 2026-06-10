@@ -6,3 +6,6 @@ It serves as a place to practice creating repositories, editing files, and using
 And most importantly, preventing my GitHub profile from looking empty.
 
 Status: 🚧 Under construction, probably forever.
+
+## Useful links
+blox-fruits.fandom.com 
