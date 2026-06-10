@@ -1,2 +1,6 @@
-# WizardVivan
-Do not worry, I made it so that my profile does look empty.
+# Work In Progress Forever
+This repository serves an important purpose:
+
+Preventing my GitHub profile from looking empty.
+
+Status: 🚧 Forever under construction.
