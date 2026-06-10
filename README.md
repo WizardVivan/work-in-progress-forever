@@ -3,6 +3,6 @@ This repository serves some important purposes:
 
 It serves as a place to practice creating repositories, editing files, and using README documentation.
 
-Preventing my GitHub profile from looking empty.
+And most importantly, preventing my GitHub profile from looking empty.
 
 Status: 🚧 Under construction, probably forever.
