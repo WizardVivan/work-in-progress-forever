@@ -1,6 +1,8 @@
 # Work In Progress Forever
-This repository serves an important purpose:
+This repository serves some important purposes:
+
+It serves as a place to practice creating repositories, editing files, and using README documentation.
 
 Preventing my GitHub profile from looking empty.
 
-Status: 🚧 Forever under construction.
+Status: 🚧 Under construction, probably forever.
