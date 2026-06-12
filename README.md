@@ -8,4 +8,4 @@ And most importantly, preventing my GitHub profile from looking empty.
 Status: 🚧 Under construction, probably forever.
 
 ## Useful links
-blox-fruits.fandom.com 
+https://blox-fruits.fandom.com/wiki/Blox_Fruits_Wiki 
