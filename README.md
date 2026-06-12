@@ -1,4 +1,4 @@
-# Work In Progress Forever
+# Work In Progress
 This repository serves some important purposes:
 
 It serves as a place to practice creating repositories, editing files, and using README documentation.
